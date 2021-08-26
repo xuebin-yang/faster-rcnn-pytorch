@@ -102,7 +102,7 @@ if __name__ == "__main__":
     weights_init(model)
 
     # #------------------------------------------------------#
-    #   权值文件请看README，百度网盘下载
+    #   权载值文件请看README，百度网盘下
     #------------------------------------------------------#
     model_path = 'model_data/voc_weights_resnet.pth'
     print('Loading weights into state dict...')

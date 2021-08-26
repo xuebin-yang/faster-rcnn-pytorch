@@ -90,8 +90,3 @@ dog
 更新了get_gt_txt.py、get_dr_txt.py和get_map.py文件。  
 get_map文件克隆自https://github.com/Cartucho/mAP  
 具体mAP计算过程可参考：https://www.bilibili.com/video/BV1zE411u7Vw
-
-## Reference
-https://github.com/chenyuntc/simple-faster-rcnn-pytorch  
-https://github.com/eriklindernoren/PyTorch-YOLOv3  
-https://github.com/BobLiu20/YOLOv3_PyTorch  
